@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="2" result="Passed" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2023-01-19 06:48:19Z" end-time="2023-01-19 06:48:19Z" duration="0.1444544">
+  <test-suite type="TestSuite" id="1000" name="JenkinsTest" fullname="JenkinsTest" runstate="Runnable" testcasecount="2" result="Passed" start-time="2023-01-19 06:48:19Z" end-time="2023-01-19 06:48:19Z" duration="0.144454" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1004" name="Tests.dll" fullname="/Users/andres.caicedo/Projects/JenkinsTest/Library/ScriptAssemblies/Tests.dll" runstate="Runnable" testcasecount="2" result="Passed" start-time="2023-01-19 06:48:19Z" end-time="2023-01-19 06:48:19Z" duration="0.061836" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="93428" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+      </properties>
+      <test-suite type="TestFixture" id="1001" name="UnitTests" fullname="UnitTests" classname="UnitTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2023-01-19 06:48:19Z" end-time="2023-01-19 06:48:19Z" duration="0.058960" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1002" name="UnitTestsSimplePasses" fullname="UnitTests.UnitTestsSimplePasses" methodname="UnitTestsSimplePasses" classname="UnitTests" runstate="Runnable" seed="61220852" result="Passed" start-time="2023-01-19 06:48:19Z" end-time="2023-01-19 06:48:19Z" duration="0.008863" asserts="0">
+          <properties />
+        </test-case>
+        <test-case id="1003" name="UnitTestsWithEnumeratorPasses" fullname="UnitTests.UnitTestsWithEnumeratorPasses" methodname="UnitTestsWithEnumeratorPasses" classname="UnitTests" runstate="Runnable" seed="1740454189" result="Passed" start-time="2023-01-19 06:48:19Z" end-time="2023-01-19 06:48:19Z" duration="0.027640" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+          </properties>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
